@@ -41,7 +41,7 @@ MongoDB
 Mongoose
 
 📂 Project Structure
-
+```
 contact-list/
 │
 ├── frontend/
@@ -70,6 +70,7 @@ contact-list/
 
 │
 └── README.md
+```
 
 
 🚀 How to Run the Project Locally
