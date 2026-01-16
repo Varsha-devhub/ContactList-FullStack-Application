@@ -41,23 +41,36 @@ MongoDB
 Mongoose
 
 📂 Project Structure
+
 contact-list/
 │
 ├── frontend/
+
 │   ├── src/
+
 │   │   ├── components/
+
 │   │   │   ├── ContactForm.jsx
+
 │   │   │   └── ContactList.jsx
+
 │   │   └── App.jsx
+
 │   └── package.json
+
 │
 ├── Express/
+
 │   ├── server.js
+
 │   └── package.json
+
 │
 ├── screenshots/
+
 │
 └── README.md
+
 
 🚀 How to Run the Project Locally
 1️⃣ Backend (Express + MongoDB)
@@ -80,10 +93,16 @@ Frontend runs on: http://localhost:5173
 
 🔗 API Endpoints
 Method	Endpoint	Description
+
 GET	/contacts	Get all contacts
+
 POST	/contacts	Add a new contact
+
 PUT	/contacts/:id	Update a contact
+
 DELETE	/contacts/:id	Delete a contact
+
+
 🧠 Key Learnings
 
 React state management with useState & useEffect
@@ -105,5 +124,7 @@ Screenshots of the application UI are available in the screenshots/ folder.
 👩‍💻 Author
 
 Varshak Payyannur
+
 Beginner Full-Stack Developer
+
 Learning MERN stack step by step 🌱
